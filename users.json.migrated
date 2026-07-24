@@ -1,0 +1,32 @@
+{
+  "23b01a12a0@svecw.edu.in": {
+    "name": "Manojna",
+    "email": "23b01a12a0@svecw.edu.in",
+    "salt": "a89eb020a568e8ab0bbc227d986bf0f0",
+    "password_hash": "79236a3782c20ab0c9e6477d167e20c0ac5fdda3835791c23e6a127c40b754e8",
+    "level": 2,
+    "level2_slot_start": null,
+    "level2_slot_end": null,
+    "level2_mail_sent_at": null
+  },
+  "23b01a12c0@svecw.edu.in": {
+    "name": "swapna",
+    "email": "23b01a12c0@svecw.edu.in",
+    "salt": "ee4fd039a554e4b61d4b4d710ffa9fc0",
+    "password_hash": "b194235de93fc3fe99c31754b540e0204df467df63f5fec8ea17f162fd6c0218",
+    "level": 1,
+    "level2_slot_start": null,
+    "level2_slot_end": null,
+    "level2_mail_sent_at": null
+  },
+  "23b01a1280@svecw.edu.in": {
+    "name": "jaya",
+    "email": "23b01a1280@svecw.edu.in",
+    "salt": "934fef765f9938ac0342a7dc3854fa2e",
+    "password_hash": "1ab8af2b747193cc24ed6a2e88977ec2265a01803169e1e7930dcb24ba59b615",
+    "level": 1,
+    "level2_slot_start": null,
+    "level2_slot_end": null,
+    "level2_mail_sent_at": null
+  }
+}
